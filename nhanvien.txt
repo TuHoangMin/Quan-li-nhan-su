@@ -1,0 +1,7 @@
+1,Nguyen Phuc Chinh,18,Quang Nam,50,20,1000
+2,Duong Nhat Khanh,18,Quang Nam,50,12,5555
+3,Tran Kieu Ha,18,Da Nang,20,3000,20
+4,Tu Hoang Minh,18,Quang Binh,50,20,500
+5,Hoang Nguyen Bao Nguyen,18,Hue,50,20,600
+6,Nguyen Ta Duy Phong,18,Hue,50,20,700
+7,Trinh Ho Nguyen,18,Kontum,50,20,600
